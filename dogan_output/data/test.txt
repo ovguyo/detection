@@ -1,0 +1,6 @@
+data/obj/dogan_frame_1.jpg
+data/obj/dogan_frame_2.jpg
+data/obj/dogan_frame_4.jpg
+data/obj/dogan_frame_5.jpg
+data/obj/dogan_frame_18.jpg
+data/obj/dogan_frame_24.jpg
