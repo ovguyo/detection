@@ -1,5 +1,5 @@
 classes = 1
-train  = detection/dogan_output/data/train.txt
-valid  = detection/dogan_output/data/test.txt
-names = detection/dogan_output/data/obj.names
+train  = data/train.txt
+valid  = data/test.txt
+names = data/obj.names
 backup = backup/
